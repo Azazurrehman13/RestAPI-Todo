@@ -1,19 +1,8 @@
-<div align="center">
+
 
 # 📝 Todo REST API
 
 ### A Full-Stack Todo Application with Node.js, Express & PostgreSQL
-
-[![Node.js](https://img.shields.io/badge/Node.js-v14+-green.svg)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-v4.18-blue.svg)](https://expressjs.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v12+-blue.svg)](https://www.postgresql.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-[Features](#-features) • [Installation](#-installation) • [API Documentation](#-api-documentation) • [Usage](#-usage)
-
-</div>
-
----
 
 ## 📖 About
 
@@ -46,10 +35,6 @@ A complete full-stack todo application featuring a RESTful API built with Node.j
 ## 🛠️ Tech Stack
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 - **Node.js** - JavaScript runtime
 - **Express.js** - Web framework
 - **PostgreSQL** - Relational database
@@ -58,10 +43,6 @@ A complete full-stack todo application featuring a RESTful API built with Node.j
 - **cors** - Cross-Origin Resource Sharing
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 - **HTML5** - Markup
 - **CSS3** - Styling with flexbox and grid
 - **Vanilla JavaScript** - DOM manipulation and Fetch API
@@ -84,7 +65,7 @@ Before running this project, ensure you have:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/todo-rest-api.git
+git clone https://github.com/Azazurrehman13/todo-rest-api.git
 cd todo-rest-api
 ```
 
@@ -488,9 +469,7 @@ PORT=3000
 # Reinstall dependencies
 rm -rf node_modules package-lock.json
 npm install
-```
 
----
 
 ## 🎯 Future Enhancements
 
@@ -505,7 +484,6 @@ npm install
 - [ ] Unit and integration tests
 - [ ] Docker containerization
 
----
 
 ## 🤝 Contributing
 
@@ -517,13 +495,10 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
----
 
 ## 👨‍💻 Author
 
@@ -532,7 +507,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - GitHub: [@yourusername](https://github.com/yourusername)
 - Email: your.email@example.com
 
----
+
 
 ## 🙏 Acknowledgments
 
@@ -541,16 +516,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 - [REST API Design Guide](https://restfulapi.net/)
 
----
 
 ## ⭐ Show Your Support
 
 If you found this project helpful, please give it a ⭐️ on GitHub!
-
----
-
-<div align="center">
-
-**Made with ❤️ and Node.js**
-
-</div>
